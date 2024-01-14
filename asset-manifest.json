@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anonymous-chatting/static/css/main.5d6f5a35.css",
+    "main.js": "/anonymous-chatting/static/js/main.4517c83e.js",
+    "index.html": "/anonymous-chatting/index.html",
+    "main.5d6f5a35.css.map": "/anonymous-chatting/static/css/main.5d6f5a35.css.map",
+    "main.4517c83e.js.map": "/anonymous-chatting/static/js/main.4517c83e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6f5a35.css",
+    "static/js/main.4517c83e.js"
+  ]
+}
